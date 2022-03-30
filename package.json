@@ -1,0 +1,26 @@
+{
+  "name": "bootsrap-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YussufOB/Bootsrap-Exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YussufOB/Bootsrap-Exercise/issues"
+  },
+  "homepage": "https://github.com/YussufOB/Bootsrap-Exercise#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  },
+  "devDependencies": {
+    "hint": "^6.1.10"
+  },
+  "keywords": []
+}
