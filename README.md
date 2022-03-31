@@ -39,7 +39,7 @@ For validation detection to use Webhint Run
 - GitHub: [@Yorsyboy](https://github.com/Yorsyboy)
 
 👤 **Yussuf**
-- GitHub: [@Yorsyboy](https://github.com/YussufOB)
+- GitHub: [@YussufOB](https://github.com/YussufOB)
 
 ## 🤝 Contributing
 
