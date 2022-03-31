@@ -1,0 +1,22 @@
+.bg-img {
+  background-image: url(../images/Illustration-header.svg);
+  background-position: right top;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.pad-div {
+  padding: 350px 0;
+}
+
+.heading {
+  color: #f55800;
+  font-size: 70px;
+}
+
+.nav-heading {
+  padding-left: 190px;
+  padding-right: 190px;
+}
+
+/*# sourceMappingURL=main.css.map */
