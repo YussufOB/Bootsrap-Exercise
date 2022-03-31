@@ -19,4 +19,12 @@
   padding-right: 190px;
 }
 
+.col-5 h1 {
+  font-size: 50px;
+  line-height: 70px;
+}
+
+textarea {
+  background-color: #fBf8f7;
+}
 /*# sourceMappingURL=main.css.map */
