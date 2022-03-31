@@ -1,0 +1,78 @@
+.btn {
+    background-color: #F55800;
+    color: #fff;
+}
+
+.work-btn {
+    margin-top: 112.9%;
+}
+
+.work-btn:hover {
+    background-color: #fff;
+    color: #F55800;
+}
+
+.card-title {
+    width: 337px;
+    font-family: 'Crete Round';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 44px;
+    color: #FFFFFF;
+}
+
+.card-text {
+    width: 337px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.skill {
+    display: flex;
+    background: rgba(255, 255, 255, 0.24);
+    padding: 4px 12px;
+    margin: 2px 8px;
+}
+
+.about-me {
+    background: #262626;
+    background-image: url(images/Frame.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+
+.me {
+    color: #F55800;
+    font-family: 'Crete Round';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 82px;
+}
+
+.abt-para {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #F4F5F7;
+    width: 50%;
+}
+
+.line {
+    width: 90%;
+}
+
+.list-group {
+    list-style-type: none;
+    font-family: 'Inter';
+    font-style: normal;
+    /* font-weight: 700;
+    font-size: 32px; */
+}
